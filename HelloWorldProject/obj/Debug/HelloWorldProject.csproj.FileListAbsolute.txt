@@ -1,0 +1,7 @@
+C:\Users\lgonta\Desktop\HelloWorldProject\HelloWorldProject\bin\Debug\HelloWorldProject.exe.config
+C:\Users\lgonta\Desktop\HelloWorldProject\HelloWorldProject\bin\Debug\HelloWorldProject.exe
+C:\Users\lgonta\Desktop\HelloWorldProject\HelloWorldProject\bin\Debug\HelloWorldProject.pdb
+C:\Users\lgonta\Desktop\HelloWorldProject\HelloWorldProject\obj\Debug\HelloWorldProject.csprojResolveAssemblyReference.cache
+C:\Users\lgonta\Desktop\HelloWorldProject\HelloWorldProject\obj\Debug\HelloWorldProject.csproj.CoreCompileInputs.cache
+C:\Users\lgonta\Desktop\HelloWorldProject\HelloWorldProject\obj\Debug\HelloWorldProject.exe
+C:\Users\lgonta\Desktop\HelloWorldProject\HelloWorldProject\obj\Debug\HelloWorldProject.pdb
